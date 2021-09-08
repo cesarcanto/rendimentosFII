@@ -1,0 +1,1 @@
+https://fnet.bmfbovespa.com.br/fnet/publico/pesquisarGerenciadorDocumentosDados?d=3&s=0&l=10&o[0][dataEntrega]=desc&tipoFundo=1&cnpjFundo=28830325000110,34508872000187,29216463000177,11728688000147&idCategoriaDocumento=14&idTipoDocumento=41&idSpecieDocumento=0&ultimaDataReferencia=true&_=1631135575732
